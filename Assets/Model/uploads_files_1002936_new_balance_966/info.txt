@@ -1,0 +1,11 @@
+Name: new_balance_966
+Version: 2011
+Preview: No
+Units: Millimeters
+Dimension: 226.1 x 184.17 x 115.69
+Polys: 374 148
+XForm: No
+Box Trick: No
+Model Parts: 390
+Render: Corona
+Formats: 3Ds Max 2011, OBJ, 3DS
